@@ -4,23 +4,23 @@ Data about South Sudan armed groups and other organizations
 
 ## Armed Groups
 ### SPLA
-- **Head:** [Salva Kiir](https://twitter.com/PresSalva), President
+- [Salva Kiir](https://twitter.com/PresSalva), President
 - "King" Paul Malong Awan, Lt. General Chief of Staff
 -  Alfred Lado Gore, Minister of Interior
 
 ### SPLM/A-IO
-- **Head:** [Dr. Riek Machar](https://twitter.com/Drriekmachar), First Vice President
+- [Dr. Riek Machar](https://twitter.com/Drriekmachar), First Vice President
 - [James Gatdet Dak](https://twitter.com/JamesGatdetDak), Spokesperson for the First Vice President
 - Dr. Dhieu Mathok Ding, Secretary General and Energy Minister
 
 ### Federal Democratic Party / South Sudan Armed Forces (FDP/SSAF)
-- **Head:** Gabriel Changson, Former Minister
+- Gabriel Changson, Former Minister
 - Gabriel "Tang-Ginye" Gatwech Chan, General
 
 ### Aguelek
-- **Head:** John Olony
+- John Olony
 
-### Fertit opposition
+### Fertit Opposition
 
 ### South Sudan National Liberation Movement (SSNLM)
 
@@ -30,37 +30,69 @@ Data about South Sudan armed groups and other organizations
 
 ---
 
+## Civil Society
+
+### South Sudan Civil Society Alliance
+- Akuoc Ajang Nyanhom, Chairperson in Juba<sup>[1](#ref1)</sup>
+
+---
+
+## Government
+
+### National
+- Salva Kiir, President
+- Paulino Wanawila, Minister of Justice<sup>[2](#ref2)</sup>, Chairperson of Judges Committee<sup>[2](#ref2)</sup>
+- Michael Makuei Lueth, Head of Legal Administration<sup>[2](#ref2)</sup>, Deputy of Judges Committee<sup>[2](#ref2)</sup>
+- Majok Mading Majok, Secretary of Judges Committee<sup>[2](#ref2)</sup>
+
+### Boma State
+- John Achuan, Minister of Information<sup>[4](#ref3)</sup>
+
+---
+
 ## National Anthem of South Sudan
->Oh God,
 
->We praise and glorify you
+Verse 1:
 
->For your grace on South Sudan
+> Oh God,
 
->Land of great abundance
+> We praise and glorify you
 
->Uphold us united in peace and harmony.
+> For your grace on South Sudan
 
+> Land of great abundance
 
->Oh motherland
+> Uphold us united in peace and harmony.
 
->Arise! Raise your flag with the guiding star
+Verse 2:
 
->And sing songs of freedom with joy,
+> Oh motherland
 
->For justice, liberty and prosperity
+> Arise! Raise your flag with the guiding star
 
->Shall forever more reign.
+> And sing songs of freedom with joy,
 
+> For justice, liberty and prosperity
 
->Oh great patriots!
+> Shall forever more reign.
 
->Let us stand up in silence and respect
+Verse 3:
 
->Saluting our martyrs whose blood
+> Oh great patriots!
 
->Cemented our national foundation,
+> Let us stand up in silence and respect
 
->We vow to protect our nation.
+> Saluting our martyrs whose blood
 
->God bless South Sudan.
+> Cemented our national foundation,
+
+> We vow to protect our nation.
+
+> God bless South Sudan.
+
+---
+
+## References
+1. <a name="#ref1"></a> “Civil society group condemns heavy deployment of troops in Juba,” http://radiotamazuj.org/en/news/article/civil-society-group-condemns-heavy-deployment-of-troops-in-juba
+2. <a name="#ref2"></a> “President Kiir forms committee to hold talks with judges,” http://radiotamazuj.org/en/news/article/president-kiir-forms-committee-to-hold-talks-with-judges
+3. <a name="#ref3"></a> “18 displaced people die of hunger in Boma state,” http://radiotamazuj.org/en/news/article/18-displaced-people-die-of-hunger-in-boma-state
