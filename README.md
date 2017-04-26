@@ -3,13 +3,18 @@
 Data about South Sudan armed groups and other organizations
 
 ## Armed Groups
-### SPLA
+
+![Seal of SPLM](images/seal-of-splm.gif)
+
+### Sudan People's Liberation Movement/Army (SPLM/A)
 - [Salva Kiir](https://twitter.com/PresSalva), President
 - "King" Paul Malong Awan, Lt. General Chief of Staff
 -  Alfred Lado Gore, Minister of Interior
 
-### SPLM/A-IO
-- [Dr. Riek Machar](https://twitter.com/Drriekmachar), First Vice President
+### Sudan People's Liberation Movement/Army in Opposition (SPLM/A-IO)
+- [Dr. Riek Machar](https://twitter.com/Drriekmachar), President
+- Taban Deng Gai, First Vice President
+- Chuol Laam, Spokesperson for the First Vice President
 - [James Gatdet Dak](https://twitter.com/JamesGatdetDak), Spokesperson for the First Vice President
 - Dr. Dhieu Mathok Ding, Secretary General and Energy Minister
 
@@ -32,8 +37,15 @@ Data about South Sudan armed groups and other organizations
 
 ## Civil Society
 
-### South Sudan Civil Society Alliance
-- Akuoc Ajang Nyanhom, Chairperson in Juba<sup>[1](#ref1)</sup>
+### South Sudan Civil Society Alliance (SSCSA)
+- Keluel Agok, Former Secretary General (-2017?)<sup>[4](#ref4)</sup>
+- Akuoc Ajang Nyanhom, Chairperson<sup>[1](#ref1)</sup>
+
+### South Sudan NGO Forum
+[Website](http://southsudanngoforum.org/)
+
+### South Sudan United States (SSUS)
+- Simon Wuor Tut, Founder
 
 ---
 
@@ -93,6 +105,7 @@ Verse 3:
 ---
 
 ## References
-1. <a name="#ref1"></a> “Civil society group condemns heavy deployment of troops in Juba,” http://radiotamazuj.org/en/news/article/civil-society-group-condemns-heavy-deployment-of-troops-in-juba
-2. <a name="#ref2"></a> “President Kiir forms committee to hold talks with judges,” http://radiotamazuj.org/en/news/article/president-kiir-forms-committee-to-hold-talks-with-judges
-3. <a name="#ref3"></a> “18 displaced people die of hunger in Boma state,” http://radiotamazuj.org/en/news/article/18-displaced-people-die-of-hunger-in-boma-state
+1. <a id="#ref1"></a> “Civil society group condemns heavy deployment of troops in Juba,” http://radiotamazuj.org/en/news/article/civil-society-group-condemns-heavy-deployment-of-troops-in-juba
+2. <a id="ref2"></a> “President Kiir forms committee to hold talks with judges,” http://radiotamazuj.org/en/news/article/president-kiir-forms-committee-to-hold-talks-with-judges
+3. <a id="ref3"></a> “18 displaced people die of hunger in Boma state,” http://radiotamazuj.org/en/news/article/18-displaced-people-die-of-hunger-in-boma-state
+4. <a id="ref4"></a> “Two Officials of Civil Society Alliance Argue Over Position,” http://www.eyeradio.org/officials-civil-society-alliance-argue-position/
