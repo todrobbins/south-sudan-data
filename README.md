@@ -22,7 +22,7 @@ Data about South Sudan armed groups and other organizations
 - Gabriel Changson, Former Minister
 - Gabriel "Tang-Ginye" Gatwech Chan, General
 
-### Aguelek
+### Aguelek/Agwelek
 - John Olony
 
 ### Fertit Opposition
