@@ -7,8 +7,8 @@ Data about South Sudan armed groups and other organizations
 ![Seal of SPLM](images/seal-of-splm.gif)
 
 ### Sudan People's Liberation Movement/Army (SPLM/A)
-- [Salva Kiir](https://twitter.com/PresSalva), President
-- "King" Paul Malong Awan, Lt. General Chief of Staff
+- [Salva Kiir](data/people/salva-kiir.json), President<sup>[5](#ref5)</sup>
+- ["King" Paul Malong Awan](data/people/paul-malong-awan.json), Lt. General Chief of Staff
 -  Alfred Lado Gore, Minister of Interior
 
 ### Sudan People's Liberation Movement/Army in Opposition (SPLM/A-IO)
@@ -109,3 +109,4 @@ Verse 3:
 2. <a id="ref2"></a> “President Kiir forms committee to hold talks with judges,” http://radiotamazuj.org/en/news/article/president-kiir-forms-committee-to-hold-talks-with-judges
 3. <a id="ref3"></a> “18 displaced people die of hunger in Boma state,” http://radiotamazuj.org/en/news/article/18-displaced-people-die-of-hunger-in-boma-state
 4. <a id="ref4"></a> “Two Officials of Civil Society Alliance Argue Over Position,” http://www.eyeradio.org/officials-civil-society-alliance-argue-position/
+5. <a id="ref5"></a> [President Salva Kiir](https://twitter.com/PresSalva) (@PresSalva)
