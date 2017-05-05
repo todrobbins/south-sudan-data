@@ -1,0 +1,36 @@
+{
+  "id": "paul-malong-awan",
+  "name": "“King” Paul Malong Awan",
+  "other_names": null,
+  "identifiers": [
+    {
+      "identifier": "Q7152176",
+      "scheme": "Wikidata"
+    }
+  ],
+  "email": "",
+  "gender": "male",
+  "birth_date": "1962",
+  "image": "",
+  "summary": "A South Sudanese politician and military figure. He has served as governor of Northern Bahr el Ghazal since 27 March 2008.",
+  "biography": "",
+  "national_identity": "South Sudanese",
+  "contact_details": [
+    {
+      "type": "",
+      "label": "",
+      "value": "",
+      "note": ""
+    }
+  ],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paul_Malong_Awan",
+      "note": "Wikipedia page"
+    },
+    {
+      "url": "http://malongfoundation.org/",
+      "note": "Malong Foundation"
+    }
+  ]
+}
